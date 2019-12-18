@@ -23,4 +23,3 @@ def createPassword():
 
 createPassword()
 print("--- %s run-time code in seconds ---" % round((time.time() - start_time),2))
- 
